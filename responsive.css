@@ -123,6 +123,13 @@
     font-weight: 700;
 }
 
+
+.bonus-section{
+    display: flex;
+    flex-direction: column;
+}
+
+
 .Choose-Us-contain-2{
     display: flex;
     flex-direction: column;
